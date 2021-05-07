@@ -1,0 +1,10 @@
+D:\TUGASKULIAH\SMT 6\PBKK\POS\POS\bin\Debug\POS.exe.config
+D:\TUGASKULIAH\SMT 6\PBKK\POS\POS\bin\Debug\POS.exe
+D:\TUGASKULIAH\SMT 6\PBKK\POS\POS\bin\Debug\POS.pdb
+D:\TUGASKULIAH\SMT 6\PBKK\POS\POS\obj\Debug\POS.csprojAssemblyReference.cache
+D:\TUGASKULIAH\SMT 6\PBKK\POS\POS\obj\Debug\POS.Form1.resources
+D:\TUGASKULIAH\SMT 6\PBKK\POS\POS\obj\Debug\POS.Properties.Resources.resources
+D:\TUGASKULIAH\SMT 6\PBKK\POS\POS\obj\Debug\POS.csproj.GenerateResource.cache
+D:\TUGASKULIAH\SMT 6\PBKK\POS\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+D:\TUGASKULIAH\SMT 6\PBKK\POS\POS\obj\Debug\POS.exe
+D:\TUGASKULIAH\SMT 6\PBKK\POS\POS\obj\Debug\POS.pdb
